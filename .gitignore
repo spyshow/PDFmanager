@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+uploads
 
 # Editor directories and files
 .vscode/*
@@ -22,6 +23,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.env
+.trae
+.taskmaster
+.cursor
 
 # Ignored for the template, you probably want to remove it:
 package-lock.json
@@ -29,6 +34,7 @@ package-lock.json
 dev-debug.log
 # Dependency directories
 node_modules/
+uploads/
 # Environment variables
 .env
 .vscode
