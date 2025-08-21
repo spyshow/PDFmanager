@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-uploads
+
 
 # Editor directories and files
 .vscode/*
@@ -34,7 +34,7 @@ package-lock.json
 dev-debug.log
 # Dependency directories
 node_modules/
-uploads/
+
 # Environment variables
 .env
 .vscode
@@ -42,4 +42,4 @@ uploads/
 
 # Task files
 # tasks.json
-# tasks/ 
+# tasks/
